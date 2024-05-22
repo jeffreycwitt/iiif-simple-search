@@ -33,7 +33,7 @@ app.get('/', (req, res) => {
     const results = [];
 
     bigJson.forEach((r) => {
-      if (r.resource.chars?.toLowerCase().includes(queryParam.toLowerCase())) {
+      if (r.resource.chars?.toLowerCase().includes(queryParam?.toLowerCase())) {
         results.push(r);
       }
     })
