@@ -1,0 +1,487 @@
+{
+  "@context": "http://iiif.io/api/search/0/context.json",
+  "@id": "http://exist.scta.info/lon/1r",
+  "@type": "sc:AnnotationList",
+  "resources": [
+    {
+      "@id": "http://scta.info/iiif/lon/1r/1",
+      "@type": "oa:Annotation",
+      "label": "1r(2),a - line: 1",
+      "motivation": "sc:painting",
+      "resource": {
+        "@type": "cnt:ContentAsText",
+        "chars": " Ascendit petrus in superiora domus actuum 10 capitulo Reverendi pa"
+      },
+      "on": "http://scta.info/iiif/lon/canvas/L1r#xywh=332,236,1711,82",
+      "imageUrl": "https://loris2.scta.info/lon/L1r.jpg"
+    },
+    {
+      "@id": "http://scta.info/iiif/lon/1r/2",
+      "@type": "oa:Annotation",
+      "label": "1r(2),a - line: 2",
+      "motivation": "sc:painting",
+      "resource": {
+        "@type": "cnt:ContentAsText",
+        "chars": " tres et domini ordinator sapientiae summusque architector"
+      },
+      "on": "http://scta.info/iiif/lon/canvas/L1r#xywh=332,297,1711,64",
+      "imageUrl": "https://loris2.scta.info/lon/L1r.jpg"
+    },
+    {
+      "@id": "http://scta.info/iiif/lon/1r/3",
+      "@type": "oa:Annotation",
+      "label": "1r(2),a - line: 3",
+      "motivation": "sc:painting",
+      "resource": {
+        "@type": "cnt:ContentAsText",
+        "chars": " orbis ac omnium artifex dus antequam archania verba scrip"
+      },
+      "on": "http://scta.info/iiif/lon/canvas/L1r#xywh=332,344,1711,70",
+      "imageUrl": "https://loris2.scta.info/lon/L1r.jpg"
+    },
+    {
+      "@id": "http://scta.info/iiif/lon/1r/4",
+      "@type": "oa:Annotation",
+      "label": "1r(2),a - line: 4",
+      "motivation": "sc:painting",
+      "resource": {
+        "@type": "cnt:ContentAsText",
+        "chars": " turae per magistrum petrum lombardum nobis revelaret"
+      },
+      "on": "http://scta.info/iiif/lon/canvas/L1r#xywh=332,392,1711,66",
+      "imageUrl": "https://loris2.scta.info/lon/L1r.jpg"
+    },
+    {
+      "@id": "http://scta.info/iiif/lon/1r/5",
+      "@type": "oa:Annotation",
+      "label": "1r(2),a - line: 5",
+      "motivation": "sc:painting",
+      "resource": {
+        "@type": "cnt:ContentAsText",
+        "chars": " priusquam domum sapientiae pro tuitione defensione ac explanatione fidei"
+      },
+      "on": "http://scta.info/iiif/lon/canvas/L1r#xywh=332,446,1711,75",
+      "imageUrl": "https://loris2.scta.info/lon/L1r.jpg"
+    },
+    {
+      "@id": "http://scta.info/iiif/lon/1r/6",
+      "@type": "oa:Annotation",
+      "label": "1r(2),a - line: 6",
+      "motivation": "sc:painting",
+      "resource": {
+        "@type": "cnt:ContentAsText",
+        "chars": " orthodoxae super septem columpnis construeret ac mea turrim"
+      },
+      "on": "http://scta.info/iiif/lon/canvas/L1r#xywh=332,497,1711,84",
+      "imageUrl": "https://loris2.scta.info/lon/L1r.jpg"
+    },
+    {
+      "@id": "http://scta.info/iiif/lon/1r/7",
+      "@type": "oa:Annotation",
+      "label": "1r(2),a - line: 7",
+      "motivation": "sc:painting",
+      "resource": {
+        "@type": "cnt:ContentAsText",
+        "chars": " davidicam clipeis munitam ostenderet intra se ut arbitror sic"
+      },
+      "on": "http://scta.info/iiif/lon/canvas/L1r#xywh=332,547,1711,90",
+      "imageUrl": "https://loris2.scta.info/lon/L1r.jpg"
+    },
+    {
+      "@id": "http://scta.info/iiif/lon/1r/8",
+      "@type": "oa:Annotation",
+      "label": "1r(2),a - line: 8",
+      "motivation": "sc:painting",
+      "resource": {
+        "@type": "cnt:ContentAsText",
+        "chars": " aiebat"
+      },
+      "on": "http://scta.info/iiif/lon/canvas/L1r#xywh=332,591,1711,95",
+      "imageUrl": "https://loris2.scta.info/lon/L1r.jpg"
+    },
+    {
+      "@id": "http://scta.info/iiif/lon/1r/9",
+      "@type": "oa:Annotation",
+      "label": "1r(2),a - line: 9",
+      "motivation": "sc:painting",
+      "resource": {
+        "@type": "cnt:ContentAsText",
+        "chars": " quibus quaestionibus"
+      },
+      "on": "http://scta.info/iiif/lon/canvas/L1r#xywh=332,647,1711,89",
+      "imageUrl": "https://loris2.scta.info/lon/L1r.jpg"
+    },
+    {
+      "@id": "http://scta.info/iiif/lon/1r/10",
+      "@type": "oa:Annotation",
+      "label": "1r(2),a - line: 10",
+      "motivation": "sc:painting",
+      "resource": {
+        "@type": "cnt:ContentAsText",
+        "chars": " respondebat ipsemet"
+      },
+      "on": "http://scta.info/iiif/lon/canvas/L1r#xywh=332,693,1711,92",
+      "imageUrl": "https://loris2.scta.info/lon/L1r.jpg"
+    },
+    {
+      "@id": "http://scta.info/iiif/lon/1r/11",
+      "@type": "oa:Annotation",
+      "label": "1r(2),a - line: 11",
+      "motivation": "sc:painting",
+      "resource": {
+        "@type": "cnt:ContentAsText",
+        "chars": " artifex increatus dicens"
+      },
+      "on": "http://scta.info/iiif/lon/canvas/L1r#xywh=332,742,1711,90",
+      "imageUrl": "https://loris2.scta.info/lon/L1r.jpg"
+    },
+    {
+      "@id": "http://scta.info/iiif/lon/1r/12",
+      "@type": "oa:Annotation",
+      "label": "1r(2),a - line: 12",
+      "motivation": "sc:painting",
+      "resource": {
+        "@type": "cnt:ContentAsText",
+        "chars": " hanc autem quaestionem respon"
+      },
+      "on": "http://scta.info/iiif/lon/canvas/L1r#xywh=332,790,1711,86",
+      "imageUrl": "https://loris2.scta.info/lon/L1r.jpg"
+    },
+    {
+      "@id": "http://scta.info/iiif/lon/1r/13",
+      "@type": "oa:Annotation",
+      "label": "1r(2),a - line: 13",
+      "motivation": "sc:painting",
+      "resource": {
+        "@type": "cnt:ContentAsText",
+        "chars": " sionem innuit ipse"
+      },
+      "on": "http://scta.info/iiif/lon/canvas/L1r#xywh=332,841,1711,85",
+      "imageUrl": "https://loris2.scta.info/lon/L1r.jpg"
+    },
+    {
+      "@id": "http://scta.info/iiif/lon/1r/14",
+      "@type": "oa:Annotation",
+      "label": "1r(2),a - line: 14",
+      "motivation": "sc:painting",
+      "resource": {
+        "@type": "cnt:ContentAsText",
+        "chars": " christus dicens petro matthaeus 16o tu es petrus"
+      },
+      "on": "http://scta.info/iiif/lon/canvas/L1r#xywh=332,886,1711,85",
+      "imageUrl": "https://loris2.scta.info/lon/L1r.jpg"
+    },
+    {
+      "@id": "http://scta.info/iiif/lon/1r/15",
+      "@type": "oa:Annotation",
+      "label": "1r(2),a - line: 15",
+      "motivation": "sc:painting",
+      "resource": {
+        "@type": "cnt:ContentAsText",
+        "chars": " et super hanc petram aedificabo ecclesiam meam et portae inferi non praeva"
+      },
+      "on": "http://scta.info/iiif/lon/canvas/L1r#xywh=332,932,1711,90",
+      "imageUrl": "https://loris2.scta.info/lon/L1r.jpg"
+    },
+    {
+      "@id": "http://scta.info/iiif/lon/1r/16",
+      "@type": "oa:Annotation",
+      "label": "1r(2),a - line: 16",
+      "motivation": "sc:painting",
+      "resource": {
+        "@type": "cnt:ContentAsText",
+        "chars": " lebunt adversus eam et tibi dabo claves regni caelorum ut pro primo"
+      },
+      "on": "http://scta.info/iiif/lon/canvas/L1r#xywh=332,988,1711,83",
+      "imageUrl": "https://loris2.scta.info/lon/L1r.jpg"
+    },
+    {
+      "@id": "http://scta.info/iiif/lon/1r/17",
+      "@type": "oa:Annotation",
+      "label": "1r(2),a - line: 17",
+      "motivation": "sc:painting",
+      "resource": {
+        "@type": "cnt:ContentAsText",
+        "chars": " dicamus tu est petrus et super hanc petram nam petrus dicitur a petra"
+      },
+      "on": "http://scta.info/iiif/lon/canvas/L1r#xywh=332,1033,1711,98",
+      "imageUrl": "https://loris2.scta.info/lon/L1r.jpg"
+    },
+    {
+      "@id": "http://scta.info/iiif/lon/1r/18",
+      "@type": "oa:Annotation",
+      "label": "1r(2),a - line: 18",
+      "motivation": "sc:painting",
+      "resource": {
+        "@type": "cnt:ContentAsText",
+        "chars": " non petra a petro quasi diceret christus ego aedificabo te super me non me"
+      },
+      "on": "http://scta.info/iiif/lon/canvas/L1r#xywh=332,1084,1711,97",
+      "imageUrl": "https://loris2.scta.info/lon/L1r.jpg"
+    },
+    {
+      "@id": "http://scta.info/iiif/lon/1r/19",
+      "@type": "oa:Annotation",
+      "label": "1r(2),a - line: 19",
+      "motivation": "sc:painting",
+      "resource": {
+        "@type": "cnt:ContentAsText",
+        "chars": " super te cui correspondet una thematis pars scilicet petrus tu vocaberis cephas"
+      },
+      "on": "http://scta.info/iiif/lon/canvas/L1r#xywh=332,1134,1711,100",
+      "imageUrl": "https://loris2.scta.info/lon/L1r.jpg"
+    },
+    {
+      "@id": "http://scta.info/iiif/lon/1r/20",
+      "@type": "oa:Annotation",
+      "label": "1r(2),a - line: 20",
+      "motivation": "sc:painting",
+      "resource": {
+        "@type": "cnt:ContentAsText",
+        "chars": " quod interpretatur petrus iohannis primo pro 2o dicatur ecclesiam meam id est facultatem"
+      },
+      "on": "http://scta.info/iiif/lon/canvas/L1r#xywh=332,1180,1711,109",
+      "imageUrl": "https://loris2.scta.info/lon/L1r.jpg"
+    },
+    {
+      "@id": "http://scta.info/iiif/lon/1r/21",
+      "@type": "oa:Annotation",
+      "label": "1r(2),a - line: 21",
+      "motivation": "sc:painting",
+      "resource": {
+        "@type": "cnt:ContentAsText",
+        "chars": " theologicam seu magistrorum bachallariorum et scolarium congregationem de qua ecclesia"
+      },
+      "on": "http://scta.info/iiif/lon/canvas/L1r#xywh=332,1224,1711,120",
+      "imageUrl": "https://loris2.scta.info/lon/L1r.jpg"
+    },
+    {
+      "@id": "http://scta.info/iiif/lon/1r/22",
+      "@type": "oa:Annotation",
+      "label": "1r(2),a - line: 22",
+      "motivation": "sc:painting",
+      "resource": {
+        "@type": "cnt:ContentAsText",
+        "chars": " seu domo ait christus luce 19 domus mea domus orationis vocabitur"
+      },
+      "on": "http://scta.info/iiif/lon/canvas/L1r#xywh=332,1285,1711,110",
+      "imageUrl": "https://loris2.scta.info/lon/L1r.jpg"
+    },
+    {
+      "@id": "http://scta.info/iiif/lon/1r/23",
+      "@type": "oa:Annotation",
+      "label": "1r(2),a - line: 23",
+      "motivation": "sc:painting",
+      "resource": {
+        "@type": "cnt:ContentAsText",
+        "chars": " in ea omnis qui petit accipit scilicet dubiorum solutionem et qui quaerit invenit"
+      },
+      "on": "http://scta.info/iiif/lon/canvas/L1r#xywh=332,1338,1711,117",
+      "imageUrl": "https://loris2.scta.info/lon/L1r.jpg"
+    },
+    {
+      "@id": "http://scta.info/iiif/lon/1r/24",
+      "@type": "oa:Annotation",
+      "label": "1r(2),a - line: 24",
+      "motivation": "sc:painting",
+      "resource": {
+        "@type": "cnt:ContentAsText",
+        "chars": " scilicet profundorum manifestationem et pulsanti id est perservanti aperietur id est dabitur"
+      },
+      "on": "http://scta.info/iiif/lon/canvas/L1r#xywh=332,1392,1711,114",
+      "imageUrl": "https://loris2.scta.info/lon/L1r.jpg"
+    },
+    {
+      "@id": "http://scta.info/iiif/lon/1r/25",
+      "@type": "oa:Annotation",
+      "label": "1r(2),a - line: 25",
+      "motivation": "sc:painting",
+      "resource": {
+        "@type": "cnt:ContentAsText",
+        "chars": " laboris primum per gradus magistralis adeptionem pro 3o dicitur et portae"
+      },
+      "on": "http://scta.info/iiif/lon/canvas/L1r#xywh=332,1448,1711,99",
+      "imageUrl": "https://loris2.scta.info/lon/L1r.jpg"
+    },
+    {
+      "@id": "http://scta.info/iiif/lon/1r/26",
+      "@type": "oa:Annotation",
+      "label": "1r(2),a - line: 26",
+      "motivation": "sc:painting",
+      "resource": {
+        "@type": "cnt:ContentAsText",
+        "chars": " inferi non praevalebunt adversus eam quasi diceret christus ideo portae ineri id est haeretic"
+      },
+      "on": "http://scta.info/iiif/lon/canvas/L1r#xywh=332,1495,1711,111",
+      "imageUrl": "https://loris2.scta.info/lon/L1r.jpg"
+    },
+    {
+      "@id": "http://scta.info/iiif/lon/1r/27",
+      "@type": "oa:Annotation",
+      "label": "1r(2),a - line: 27",
+      "motivation": "sc:painting",
+      "resource": {
+        "@type": "cnt:ContentAsText",
+        "chars": " mortiferi vel sophisticae verbosi ac philosophi pestiferi non praevalebunt ad"
+      },
+      "on": "http://scta.info/iiif/lon/canvas/L1r#xywh=332,1549,1711,108",
+      "imageUrl": "https://loris2.scta.info/lon/L1r.jpg"
+    },
+    {
+      "@id": "http://scta.info/iiif/lon/1r/28",
+      "@type": "oa:Annotation",
+      "label": "1r(2),a - line: 28",
+      "motivation": "sc:painting",
+      "resource": {
+        "@type": "cnt:ContentAsText",
+        "chars": " versus theologiam seu contra theologorum congregationem quia hunc petrum lombardum"
+      },
+      "on": "http://scta.info/iiif/lon/canvas/L1r#xywh=332,1606,1711,97",
+      "imageUrl": "https://loris2.scta.info/lon/L1r.jpg"
+    },
+    {
+      "@id": "http://scta.info/iiif/lon/1r/29",
+      "@type": "oa:Annotation",
+      "label": "1r(2),a - line: 29",
+      "motivation": "sc:painting",
+      "resource": {
+        "@type": "cnt:ContentAsText",
+        "chars": " et huic consonat alia"
+      },
+      "on": "http://scta.info/iiif/lon/canvas/L1r#xywh=332,1654,1711,106",
+      "imageUrl": "https://loris2.scta.info/lon/L1r.jpg"
+    },
+    {
+      "@id": "http://scta.info/iiif/lon/1r/30",
+      "@type": "oa:Annotation",
+      "label": "1r(2),a - line: 30",
+      "motivation": "sc:painting",
+      "resource": {
+        "@type": "cnt:ContentAsText",
+        "chars": " pars thematis qua dicitur ascen"
+      },
+      "on": "http://scta.info/iiif/lon/canvas/L1r#xywh=332,1708,1711,97",
+      "imageUrl": "https://loris2.scta.info/lon/L1r.jpg"
+    },
+    {
+      "@id": "http://scta.info/iiif/lon/1r/31",
+      "@type": "oa:Annotation",
+      "label": "1r(2),a - line: 31",
+      "motivation": "sc:painting",
+      "resource": {
+        "@type": "cnt:ContentAsText",
+        "chars": " dit nam ascendi primus"
+      },
+      "on": "http://scta.info/iiif/lon/canvas/L1r#xywh=332,1758,1711,104",
+      "imageUrl": "https://loris2.scta.info/lon/L1r.jpg"
+    },
+    {
+      "@id": "http://scta.info/iiif/lon/1r/32",
+      "@type": "oa:Annotation",
+      "label": "1r(2),a - line: 32",
+      "motivation": "sc:painting",
+      "resource": {
+        "@type": "cnt:ContentAsText",
+        "chars": " et factus est princeps"
+      },
+      "on": "http://scta.info/iiif/lon/canvas/L1r#xywh=332,1813,1711,100",
+      "imageUrl": "https://loris2.scta.info/lon/L1r.jpg"
+    },
+    {
+      "@id": "http://scta.info/iiif/lon/1r/33",
+      "@type": "oa:Annotation",
+      "label": "1r(2),a - line: 33",
+      "motivation": "sc:painting",
+      "resource": {
+        "@type": "cnt:ContentAsText",
+        "chars": " Ascendit enim primus magister petrus in hac celebri universitate parisiensis quoniam"
+      },
+      "on": "http://scta.info/iiif/lon/canvas/L1r#xywh=332,1868,1711,100",
+      "imageUrl": "https://loris2.scta.info/lon/L1r.jpg"
+    },
+    {
+      "@id": "http://scta.info/iiif/lon/1r/34",
+      "@type": "oa:Annotation",
+      "label": "1r(2),a - line: 34",
+      "motivation": "sc:painting",
+      "resource": {
+        "@type": "cnt:ContentAsText",
+        "chars": " ipse fuit unus de primis et potioribus magistris huius almae universitatis"
+      },
+      "on": "http://scta.info/iiif/lon/canvas/L1r#xywh=332,1914,1711,106",
+      "imageUrl": "https://loris2.scta.info/lon/L1r.jpg"
+    },
+    {
+      "@id": "http://scta.info/iiif/lon/1r/35",
+      "@type": "oa:Annotation",
+      "label": "1r(2),a - line: 35",
+      "motivation": "sc:painting",
+      "resource": {
+        "@type": "cnt:ContentAsText",
+        "chars": " in qua etiam factus est princeps ecclesiasticus quia huius nobilis civitatis factus est"
+      },
+      "on": "http://scta.info/iiif/lon/canvas/L1r#xywh=332,1969,1711,103",
+      "imageUrl": "https://loris2.scta.info/lon/L1r.jpg"
+    },
+    {
+      "@id": "http://scta.info/iiif/lon/1r/36",
+      "@type": "oa:Annotation",
+      "label": "1r(2),a - line: 36",
+      "motivation": "sc:painting",
+      "resource": {
+        "@type": "cnt:ContentAsText",
+        "chars": " praesul dignissimus pro 4o dicitur et tibi dabo calves regni caelorum id est"
+      },
+      "on": "http://scta.info/iiif/lon/canvas/L1r#xywh=332,2029,1711,90",
+      "imageUrl": "https://loris2.scta.info/lon/L1r.jpg"
+    },
+    {
+      "@id": "http://scta.info/iiif/lon/1r/37",
+      "@type": "oa:Annotation",
+      "label": "1r(2),a - line: 37",
+      "motivation": "sc:painting",
+      "resource": {
+        "@type": "cnt:ContentAsText",
+        "chars": " cognitionem divinorum secretorum quae cognitio est via lux esse clavis regni caelorum"
+      },
+      "on": "http://scta.info/iiif/lon/canvas/L1r#xywh=332,2079,1711,98",
+      "imageUrl": "https://loris2.scta.info/lon/L1r.jpg"
+    },
+    {
+      "@id": "http://scta.info/iiif/lon/1r/38",
+      "@type": "oa:Annotation",
+      "label": "1r(2),a - line: 38",
+      "motivation": "sc:painting",
+      "resource": {
+        "@type": "cnt:ContentAsText",
+        "chars": " quoniam sicut cognitio est neccessaria ad nostrum meritum sic eadem est neccessaria adultis"
+      },
+      "on": "http://scta.info/iiif/lon/canvas/L1r#xywh=332,2133,1711,94",
+      "imageUrl": "https://loris2.scta.info/lon/L1r.jpg"
+    },
+    {
+      "@id": "http://scta.info/iiif/lon/1r/39",
+      "@type": "oa:Annotation",
+      "label": "1r(2),a - line: 39",
+      "motivation": "sc:painting",
+      "resource": {
+        "@type": "cnt:ContentAsText",
+        "chars": " aditum dicente beato patre nostro augustino invisa diligere possumus incognita"
+      },
+      "on": "http://scta.info/iiif/lon/canvas/L1r#xywh=332,2179,1711,90",
+      "imageUrl": "https://loris2.scta.info/lon/L1r.jpg"
+    },
+    {
+      "@id": "http://scta.info/iiif/lon/1r/40",
+      "@type": "oa:Annotation",
+      "label": "1r(2),a - line: 40",
+      "motivation": "sc:painting",
+      "resource": {
+        "@type": "cnt:ContentAsText",
+        "chars": null
+      },
+      "on": "http://scta.info/iiif/lon/canvas/L1r#xywh=332,2232,1711,75",
+      "imageUrl": "https://loris2.scta.info/lon/L1r.jpg"
+    }
+  ]
+}
