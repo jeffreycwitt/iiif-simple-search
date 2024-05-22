@@ -24,11 +24,14 @@ Simple drop your annotation lists into the data folder
 
 # Connecting to manifest
 
-Once running in code space, allow code space to open in browser. Find the running url. Something like the following
+Once running in code space, allow code space to open in browser. Find the running url, Something like the following
 
 `https://musical-space-fishstick-7v5rxp4wr9cxjvg-3000.app.github.dev`
 
-Add this to your manifest service block, like so:
+Note: You'll also need to set the port visibility to "public".
+
+
+Once you have the accessible URL, add this to your manifest service block, like so:
 
 ```json
     "service": {
