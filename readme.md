@@ -10,7 +10,7 @@ At present there is no indexing, so this will not scale well.
 
 However, it should be sufficient to run in code a space and then link via demo manifest to get a sense of how the ecoystem works.
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?hide_repo_select=true&ref=main)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/jeffreycwitt/iiif-simple-search)
 
 # Start
 
